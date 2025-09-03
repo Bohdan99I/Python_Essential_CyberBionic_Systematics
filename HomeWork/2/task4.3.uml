@@ -1,0 +1,20 @@
+@startuml
+class A {
+    +say()
+}
+
+class B {
+    +say()
+}
+
+class C {
+    +say()
+}
+
+class D
+
+A <|-- B
+A <|-- C
+B <|-- D
+C <|-- D
+@enduml

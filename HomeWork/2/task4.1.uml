@@ -1,0 +1,12 @@
+@startuml
+class Editor {
+    +view_document()
+    +edit_document()
+}
+
+class ProEditor {
+    +edit_document()
+}
+
+Editor <|-- ProEditor
+@enduml

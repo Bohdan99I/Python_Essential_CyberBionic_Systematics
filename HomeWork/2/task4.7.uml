@@ -1,0 +1,29 @@
+@startuml
+' Ієрархія транспортних засобів
+
+class Vehicle {
+    -make: str
+    -model: str
+    -year: int
+    +info()
+}
+
+class Car {
+    -doors: int
+    +info()
+}
+
+class Motorcycle {
+    -engine_cc: int
+    +info()
+}
+
+class Truck {
+    -capacity_t: float
+    +info()
+}
+
+Vehicle <|-- Car
+Vehicle <|-- Motorcycle
+Vehicle <|-- Truck
+@enduml
