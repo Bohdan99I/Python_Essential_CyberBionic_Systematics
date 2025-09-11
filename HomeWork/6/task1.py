@@ -3,7 +3,7 @@
 """
 
 # -------------------------------
-# Варіант 1 – цикл for
+# Варіант 1 цикл for
 iterable = [10, 20, 30, 40, 50]
 
 print("Перебір за допомогою for:")
@@ -11,7 +11,7 @@ for element in iterable:
     print(element)
 
 # -------------------------------
-# Варіант 2 – через iter() та next()
+# Варіант 2 через iter() та next()
 iterable = [10, 20, 30, 40, 50]
 iterator = iter(iterable)
 
@@ -24,7 +24,7 @@ while True:
         break
 
 # -------------------------------
-# Варіант 3 – через while
+# Варіант 3 через while
 iterable = [10, 20, 30, 40, 50]
 iterator = iter(iterable)
 
