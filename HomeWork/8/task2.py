@@ -3,8 +3,11 @@
 """
 
 import shelve
+import os
 
-DB_FILENAME = "short_links.db"
+# Отримуємо шлях до директорії, де лежить сам скрипт
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_FILENAME = os.path.join(BASE_DIR, "short_links.db")
 
 
 def add_link(original_url, short_name):
