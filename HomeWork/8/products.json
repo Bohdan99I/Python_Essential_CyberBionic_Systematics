@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Ноутбук",
+        "price": 1200.0,
+        "in_stock": true
+    },
+    {
+        "id": 2,
+        "name": "Смартфон",
+        "price": 800.0,
+        "in_stock": true
+    },
+    {
+        "id": 3,
+        "name": "Навушники",
+        "price": 150.0,
+        "in_stock": false
+    },
+    {
+        "id": 4,
+        "name": "Клавіатура",
+        "price": 50.0,
+        "in_stock": true
+    }
+]
