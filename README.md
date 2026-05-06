@@ -103,3 +103,13 @@
 - regex синтаксис
 - модуль `re`
 - валідація та парсинг
+---
+
+## 🚀 Як використовувати
+
+```bash
+# Клонувати репозиторій
+git clone https://github.com/your-username/python-essential-course.git
+
+# Перейти в папку
+cd python-essential-course
