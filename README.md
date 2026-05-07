@@ -113,3 +113,24 @@ git clone https://github.com/your-username/python-essential-course.git
 
 # Перейти в папку
 cd python-essential-course
+
+# Приклад роботи з модулем
+unzip 001_ООП_Класи, атрибути, методи, конструктор.zip
+
+---
+
+### 📌 Вимоги
+ - Python 3.8+
+ - Базові знання Python
+
+---
+
+ ### 📁 Структура репозиторію
+
+ python-essential-course/
+│
+├── 001_OOP_Basics.zip
+├── 002_Inheritance.zip
+├── 003_Encapsulation.zip
+├── ...
+├── README.md
