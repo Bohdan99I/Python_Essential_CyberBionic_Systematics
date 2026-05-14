@@ -59,7 +59,6 @@
 - застосовувати duck typing
 - розуміти базові принципи SOLID
 
-
 ---
 
 ### 📦 004. Винятки та їх обробка
@@ -131,9 +130,6 @@ git clone https://github.com/your-username/python-essential-course.git
 
 # Перейти в папку
 cd python-essential-course
-
-# Приклад роботи з модулем
-unzip 001_ООП_Класи, атрибути, методи, конструктор.zip
 
 ---
 
