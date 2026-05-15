@@ -155,3 +155,9 @@ cd python-essential-course
 ├── 010_Регулярні_вирази.zip
 │
 └── README.md
+
+------------------------------------------------------------------------
+
+**CyberBionic Systematics**  
+**Вебсайт:** [www.edu.cbsystematics.com](http://www.edu.cbsystematics.com)
+------------------------------------------------------------------------
